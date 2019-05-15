@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block body %}
+    <div class="container" align="center" style="color: white  ">
+        <h1 align="center"><font color="black">Cadastre uma conta</font></h1>
+        <p class="lead"><font color="black">Selecione o tipo de conta abaixo</font></p>
+        <a href="{% url 'cadastro_professor' %}" class="btn btn-info" role="button">Sou Professor</a>
+        <a href="{% url 'cadastro_coordenador' %}" class="btn btn-dark" role="button">Sou Coordenador</a>
+    </div>
+{% endblock %}

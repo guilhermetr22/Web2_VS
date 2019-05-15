@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block body %}
+    {% if user.is_authenticated %}
+        {% if user.is_professor %}
+            PROFESSOR
+        {% endif %}
+
+        {% if user.is_coordenador %}
+            COORDENADOR
+        {% endif %}
+    {% endif %}
+{% endblock %}

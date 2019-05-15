@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}Login{% endblock %}
+
+{% block body %}
+    <div class="container" style="color: black" align="center">
+         <img src="/static/ram/images/logo_login.png" alt="Logo_Login">
+         <form method="post" style="margin-left: 26px">
+             {% csrf_token %}
+             {{ form.as_p }}
+        <button class="btn" type="submit">Login</button>
+        </form>
+    </div>
+
+{% endblock %}

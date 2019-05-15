@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block body %}
+  <div class="row" style="color:black" align="center">
+    <div class="col-md-8 col-sm-10 col-12" align="center">
+      <h2>Cadastrar como {{ user_type }}</h2>
+      <form class="form-group" method="post" novalidate>
+        {% csrf_token %}
+        <input type="hidden" name="next" value="{{ next }}">
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-success">Cadastrar</button>
+      </form>
+    </div>
+  </div>
+{% endblock %}
