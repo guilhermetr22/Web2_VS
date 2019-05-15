@@ -1,0 +1,232 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-762174762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (WEB2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\guilh\Documents\Projeto\WEB2\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Documents/Projeto/WEB2/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Documents/Projeto/WEB2/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Documents/Projeto/WEB2/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/Projeto/WEB2/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1110911864" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Projeto/WEB2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="C:\Users\guilh\Documents\PythonProjects\web2\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/web2/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/web2/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/PythonProjects/web2/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/web2/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/935186329" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (web2)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\guilh\Documents\PythonProjects\web2\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/web2/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/web2/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/PythonProjects/web2/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/web2/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/935186329" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/PythonProjects/web2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (ProjetoWEB)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="C:\Users\guilh\Documents\PythonProjects\ProjetoWEB\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/ProjetoWEB/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/ProjetoWEB/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/PythonProjects/ProjetoWEB/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/ProjetoWEB/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/2081485388" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/PythonProjects/ProjetoWEB" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (WEB)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="C:\Users\guilh\Documents\PythonProjects\WEB\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/WEB/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/WEB/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-680789703" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/PythonProjects/WEB" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (WEB2_Correto)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="C:\Users\guilh\Documents\PythonProjects\WEB2_Correto\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/WEB2_Correto/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/WEB2_Correto/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/PythonProjects/WEB2_Correto/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/WEB2_Correto/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/624535758" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/PythonProjects/WEB2_Correto" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (ProjetoFacens)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="C:\Users\guilh\Documents\PythonProjects\ProjetoFacens\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/ProjetoFacens/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/PythonProjects/ProjetoFacens/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/PythonProjects/ProjetoFacens/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-165507958" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/PythonProjects/ProjetoFacens" />
+    </jdk>
+  </component>
+</application>
